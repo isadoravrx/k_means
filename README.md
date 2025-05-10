@@ -1,8 +1,9 @@
 # K-Means Clustering - Obesity Dataset
 
-Este projeto aplica o algoritmo de K-Means para realizar agrupamento no Obesity Dataset, que contém diversas informações pessoais e de estilo de vida com o objetivo de classificar o tipo de obesidade do indivíduo, representado pela variável NObeyesdad.
-📊 Sobre o Dataset
+Este projeto aplica o algoritmo de K-Means para realizar agrupamento no Obesity Dataset, que contém informações pessoais e de estilo de vida com o objetivo de classificar o tipo de obesidade do indivíduo (variável alvo: `NObeyesdad`).
 
+---
+## Sobre o Dataset
 O conjunto de dados Estimation of Obesity Levels Based on Eating Habits and Physical Condition foi desenvolvido para estimar os níveis de obesidade em indivíduos com base em seus hábitos alimentares e condição física. Ele contém 2.111 registros e 17 atributos, abrangendo informações demográficas, hábitos alimentares, atividades físicas e outras variáveis relacionadas ao estilo de vida.
 Origem dos Dados
 
